@@ -1,0 +1,36 @@
+h1{
+  text-align:center;
+  font-size:40px;
+}
+body{
+  background-color:rgba(0, 0, 0, 0.993);
+color:white;
+}
+h2{
+  color:blue;
+}
+h1{
+  color:blue;
+}
+#div1{
+  font-family: arial;
+}
+#div2{
+  font-family:cursive;
+}
+#div3{
+  font-family:'Trebuchet MS';
+}
+#button{
+  background-color:aqua;
+}
+#contact{
+  text-align:center;
+  color:blueviolet;
+}
+#github,linkedin{
+  color:blue;
+}
+#email{
+  color:blue;
+}
